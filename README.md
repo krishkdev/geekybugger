@@ -1,4 +1,4 @@
-# Kℝ𝓲sh𝓷ⱥkบmⱥℝ
+# Kℝ𝓲sh𝓷ⱥkบmⱥℝ V
 ### Hi there, I'm Krishnakumar V - aka [geekybugger][website] 👋
 
 Hey folks 👾🙌. Glad to have you guys here 💖💖💖. I've working on a few projects💻 right now🤓. Check out some of my projects in this github repository. Smash the 🌟 button if you like my projects. 📘📖📚
@@ -48,7 +48,7 @@ Hey folks 👾🙌. Glad to have you guys here 💖💖💖. I've working on a f
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 My Favorite YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [React 17: New Features!! - JSX Transform is Amazing!!](https://www.youtube.com/watch?v=8D-rWP3c088)
@@ -62,7 +62,7 @@ Hey folks 👾🙌. Glad to have you guys here 💖💖💖. I've working on a f
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 My Favorite Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
