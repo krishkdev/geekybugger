@@ -5,7 +5,7 @@ Hey folks 👾🙌. Glad to have you guys here 💖💖💖. I've working on a f
 
 ## I'm a Student, Developer, and Game changer 😎!
 
-- 🔭 I’m currently working on a [VS Code Course][website]! 
+- 🔭 I’m currently working on a [Portfolio site][website]! 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers 👬
 - 🥅 2020 Goals: Contribute more to Open Source projects 📂📬 
