@@ -96,7 +96,7 @@ Hey folks 👾🙌. Glad to have you guys here 💖💖💖. I've working on a f
 
 </details>
 
-[website]: https://github.com/geekybugger
+[website]: https://geekybugger.github.io/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/_geekybugger
