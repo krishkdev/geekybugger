@@ -95,8 +95,8 @@ Hey folks 👾🙌. Glad to have you guys here 💖💖💖. I've working on a f
 </details>
 
 [website]: https://geekybugger.github.io/
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[twitter]: https://twitter.com/Krishnans01
+[youtube]: https://www.youtube.com/channel/UCFL63zspKEFwxruBCf9vsGw
 [instagram]: https://www.instagram.com/krishkv_/
 [linkedin]: https://www.linkedin.com/in/krishkv/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
