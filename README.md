@@ -1,5 +1,5 @@
-# வி கிருஷ்ணகுமார்
-### Hi there, I'm [Krishnakumar V][website] 👋
+# Inroduction
+### Hello Folks, I'm [Krishnakumar V][website] 👋
 
 Hey folks 👾🙌. Glad to have you guys here 💖💖💖. I've working on a few projects💻 right now🤓. Check out some of my projects in this github repository. Smash the 🌟 button if you like my projects. 📘📖📚
 
