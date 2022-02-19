@@ -94,7 +94,7 @@ Hey folks 👾🙌. Glad to have you guys here 💖💖💖. I've working on a f
 
 </details>
 
-[website]: https://geekybugger.github.io/
+[website]: https://krishkdev.github.io/
 [twitter]: https://twitter.com/Krishnans01
 [youtube]: https://www.youtube.com/channel/UCFL63zspKEFwxruBCf9vsGw
 [instagram]: https://www.instagram.com/krishkv_/
