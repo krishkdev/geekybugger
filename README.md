@@ -1,5 +1,5 @@
 # Inroduction
-### Hello Folks, I'm [Krishnakumar V][website] 👋
+### Nice to meet you, I'm [Krishnakumar V][website] 👋
 
 Hey, there 👾🙌. Glad to have you here 💖💖💖. I am web development enthusiast 💻🤓. 
 Check out some of my projects in this github repository. Smash the 🌟 button if you . 📘📖📚
@@ -9,7 +9,7 @@ Check out some of my projects in this github repository. Smash the 🌟 button i
 - 🔭 I’m currently working on a [Portfolio site][website]! 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers 👬
-- 🥅 2022 Goals: Contribute more to Open Source projects 📂📬 
+- 🥅 2023 Goals: Contribute more to Open Source projects 📂📬 
 - ⚡ Fun fact: I love to Travel a lot😘 !
 
 ## Some of my best github project
